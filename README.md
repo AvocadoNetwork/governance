@@ -1,6 +1,7 @@
 # governance
 Community governance for Avocado
 
+Ideas for tasks and projects for Avocado can be shared as an issue [here](https://github.com/AvocadoNetwork/governance/issues).
 
 ## About Avocado
 On March 1st, 2018, 9000 CryptoKitties players were chosen at random to receive an airdrop of 100m AVO tokens each. The reasoning for this was because CK players were recognized as creative, innovative, and positive users of crypto. This action has been dubbed the world's first reverse-ICO, bringing people together for the purpose of community and collaboration. 
