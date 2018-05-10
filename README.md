@@ -32,6 +32,6 @@ Telegram user "Benjamin Btc" has been kind enough to start a new distribution of
 - Subreddit, Medium, Steemit coming soon!
 - Please ask in the Telegram channel for a link to the Discord!
 
-DEX Links
+## DEX Links
 - EtherDelta: https://etherdelta.com/#0xfa6f7881e52fdf912c4a285d78a3141b089ce859-ETH
 - ForkDelta: https://forkdelta.github.io/#!/trade/0xfa6f7881e52fdf912c4a285d78a3141b089ce859-ETH
